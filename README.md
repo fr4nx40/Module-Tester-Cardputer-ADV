@@ -26,9 +26,9 @@ test M5Stack and third-party modules — radios, displays, GPS, RFID, IR, and au
 
 | | |
 |---|---|
-| ![Home](screens/home.jpg) | ![Menu](screens/menu.jpg) |
-| ![Module menu](screens/module-menu.jpg) | ![CC1101 Waterfall](screens/cc1101-waterfall.jpg) |
-| ![Detect Freq](screens/detect-freq.jpg) | ![NRF24L01 status](screens/nrf2401-status.jpg) |
+| ![Home](/screens/home.jpg) | ![Menu](/screens/menu.jpg) |
+| ![Module menu](/screens/module-menu.jpg) | ![CC1101 Waterfall](/screens/cc1101-waterfall.jpg) |
+| ![Detect Freq](/screens/detect-freq.jpg) | ![NRF24L01 status](/screens/nrf2401-status.jpg) |
 
 ## Hardware
 
